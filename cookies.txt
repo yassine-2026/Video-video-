@@ -1,0 +1,2 @@
+# Netscape HTTP Cookie File
+# Replace this file with your actual youtube cookies if EveryAyah fallback is needed.
